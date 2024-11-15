@@ -1,2 +1,2 @@
 DEMO 
-https://anilsjr.github,io/recipe-app
+https://anilsjr.github.io/recipe-app/
